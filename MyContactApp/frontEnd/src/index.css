@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#searchbar{
+  padding: 8px;
+    margin: 15px;
+    width: 80%;
+    max-width: 500px;
+    float: left;
+}
+td:nth-child(2){
+    width: 80%;
+    text-align: left;
+}
+.btn{
+    margin: 15px;
+    float: right;
+}
+h4{
+      margin: 15px;
+    display: inline-block;
+  }
+ul{
+    list-style: none;
+}
+li:first-child{
+    font-size: 1.5em;
+}
+.userimage{
+    width: 200px;
+    height: 200px;
+    padding:20px;
+}
